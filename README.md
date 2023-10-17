@@ -1,2 +1,2 @@
 # AirbnbPropertyOpportunities
-Data Analysis Identifying Target Areas for Potentially Profitable Airbnb Property Locations
+Data Analysis Identifying Areas and Property Types with Greatest Cash Flow Potential.
